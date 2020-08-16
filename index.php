@@ -105,9 +105,6 @@ select {
     <th class="tg-0pky"> <label class="custom-upload">
   <input type="file" name="file1" id="file1" onchange="uploadFile()"> 
 ...BROWES </label> </th>
-
-   
-  </tr>
  
 </table>
   <h3 id="status">  </h3> 
