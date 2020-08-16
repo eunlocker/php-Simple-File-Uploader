@@ -101,7 +101,7 @@ select {
 </select>
  </div> </th>
 
- <th class="tg-0pky"> <label class="custom-upload"> <progress id="progressBar" value="0" max="100" style="width:300px;"> </label> </progress></th>
+ <th class="tg-0pky"> <label class="custom-upload"> <progress id="progressBar" value="0" max="100" style="width:300px;"></progress> </label> </th>
     <th class="tg-0pky"> <label class="custom-upload">
   <input type="file" name="file1" id="file1" onchange="uploadFile()"> 
 ...BROWES </label> </th>
